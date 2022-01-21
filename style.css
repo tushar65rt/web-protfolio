@@ -1,0 +1,71 @@
+body{
+    margin: 0px;
+}
+h1{
+    font-size: 50px;
+}
+h2{
+    font-size: 40px;
+
+}
+p{
+    color: grey;
+}
+h3{
+    color: black;
+}
+p{
+    
+}
+.orange-highlight{
+    color: orange;
+}
+.half-width{
+    width: 40%;
+    float: left;
+    margin-left: 5%;
+    padding-left: 2%;
+}
+.half-width img{
+    width: 70%;
+    margin: 0px ;
+    border-radius: 100%;
+}
+.top-banner{
+    background-image: url("https://images.pexels.com/photos/7319297/pexels-photo-7319297.jpeg?auto=compress&cs=tinysrgb&h=750&w=1260");
+    
+}
+section{
+    height: 500px;
+}
+.link-button{
+    text-decoration: none;
+    background-color: orange;
+    padding: 10px 20px;
+    border-radius: 5%;
+    color: white;
+    font-weight: bold;
+
+}
+.single-exprience{
+    box-shadow: 10px 10px 30px grey;
+    border-radius: 5%;
+    border-radius: 7%;
+    height: 80%;
+}
+.experience-area{
+    background-image: url("images/exp-bg.png");
+    background-repeat: no-repeat;
+    background-position: left;
+}
+#full-stack{
+    border-left: 7px solid pink;
+}
+#wordpress{
+    border-left: 7px solid green;
+
+}
+footer p{
+    text-align: center;
+}
+
